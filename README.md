@@ -13,5 +13,7 @@ No pip install needed.
     - `prog2.py`
     - `prog3.py`
 - **Introducing Optional Arguments**
-    - `prog2.py`
-    - `prog3.py`
+    - `prog4.py`
+    - `prog5.py`
+- **Short Options**
+    - `prog5.py`
