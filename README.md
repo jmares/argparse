@@ -16,4 +16,11 @@ No pip install needed.
     - `prog4.py`
     - `prog5.py`
 - **Short Options**
-    - `prog5.py`
+    - `prog6.py`
+- **Combining Positional and Optional arguments**
+    - `prog7.py`
+    - `prog8.py`
+    - `prog9.py`
+    - `prog10.py`
+    - `prog11.py`
+    - `prog12.py`
