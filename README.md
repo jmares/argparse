@@ -24,3 +24,7 @@ No pip install needed.
     - `prog10.py`
     - `prog11.py`
     - `prog12.py`
+- **Getting a little more advanced**
+    - `prog13.py`
+    - `prog14.py`
+
