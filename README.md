@@ -31,3 +31,10 @@ No pip install needed.
     - `prog15.py`
     - `prog16.py`
 
+## Exceptions
+
+How do you deal with exceptions? Adding `exit_on_error=False` might help but it looks more complicated than that:
+
+```python
+parser = argparse.ArgumentParser(exit_on_error=False)
+```
