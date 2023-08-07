@@ -27,4 +27,7 @@ No pip install needed.
 - **Getting a little more advanced**
     - `prog13.py`
     - `prog14.py`
+- **Conflicting Options**
+    - `prog15.py`
+    - `prog16.py`
 
